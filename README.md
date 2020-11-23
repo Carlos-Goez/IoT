@@ -39,7 +39,7 @@ CREATE TABLE actuadores  (
 
 ```
 
-## API AÑADIR MEDIDA SENSOR
+## API Añadir medida sensor
 
 Para añadir nuevas medidas de sensores utilizar la siguiente notación json.
 
